@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254743982206"
-global.ownername = "BRUCE BERA👑"
-global.ytname = "YT: BERA_TECH"
-global.socialm = "GitHub: berabotsmd"
+global.ownernomer = "254723474762"
+global.ownername = "ALKALINE KE"
+global.ytname = "YT: ALKALINE_TECH"
+global.socialm = "GitHub: ALKALINEbotsmd"
 global.location = "Kenya, kitale"
 
-global.ownernumber = '254743982206'  //creator number
-global.ownername = 'BRUCE BERA👑' //owner name
-global.botname = '🄰🄻🄿🄷🄰-🄱🅄🄶' //name of the bot
+global.ownernumber = '254723474762' //creator number
+global.ownername = 'ALKALINE KE' //owner name
+global.botname = 'ALKA-🄱🅄🄶' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
